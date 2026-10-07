@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28a3f1ff6dd1b984fabaf0014731a0eb, type: 3}
+  m_Name: 10000
+  m_EditorClassIdentifier: 
+  ItemID: 10000
+  Name: "\uC0BD"
+  Description: "\uBE59\uAE00\uBE59\uAE00 \uB3CC\uC544\uAC00\uB294 \uC0BD"
+  UnlockLev: 1
+  MaxHP: 0
+  MaxHPMul: 0
+  MaxMP: 0
+  MaxMPMul: 0
+  MaxAtK: 16
+  MaxAtkMul: 1.1
+  MaxDef: 0
+  MaxDefMul: 0
+  Status: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 905207d6e231d754b88229fe0a15489f, type: 3}
+  m_Name: Skeleton
+  m_EditorClassIdentifier: 
+  MonsterID: Skeleton
+  Name: "\uBF08\uB2E4\uADC0 \uC880\uBE44"
+  Description: "\uBF08\uB9CC\uB0A8\uC740\uC880\uBE44"
+  Attack: 50
+  AttackMul: 1.1
+  MaxHP: 100
+  MaxMul: 1.1
+  AttackRange: 2
+  AttackRangeMul: 0
+  AttackSpeed: 1
+  MoveSpeed: 2
+  MinExp: 20
+  MaxExp: 40
+  DropItem: 00000000
+  sprite: {fileID: -2092964637, guid: 4104ee12b4d54f54b91b3ba875787837, type: 3}
